@@ -7,7 +7,7 @@
 
 
 ---
-### 한글 형태소 분류
+##### 한글 형태소 분류
 ![ㅇㅁㅇㅁㅇㅁㅇㅁ](https://user-images.githubusercontent.com/71945157/94987727-6a876b80-05a3-11eb-9764-5e3530f65fd6.png)
 
 
