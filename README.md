@@ -8,7 +8,8 @@
 
 ---
 ### 한글 형태소 분류
-![image](https://user-images.githubusercontent.com/71945157/94987693-2300df80-05a3-11eb-9abd-0a2edcc292fc.png)
+![ㅇㅁㅇㅁㅇㅁㅇㅁ](https://user-images.githubusercontent.com/71945157/94987727-6a876b80-05a3-11eb-9764-5e3530f65fd6.png)
+
 
 
 ---
