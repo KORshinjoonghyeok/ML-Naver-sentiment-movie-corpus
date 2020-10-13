@@ -11,7 +11,3 @@
 ![ㅇㅁㅇㅁㅇㅁㅇㅁ](https://user-images.githubusercontent.com/71945157/94987727-6a876b80-05a3-11eb-9764-5e3530f65fd6.png)
 
 
-
----
-##### Konlpy, LogisticRegression, GridSearchCV 사용 최종 정확도
-![1424124141](https://user-images.githubusercontent.com/71945157/94987530-031cec00-05a2-11eb-8b15-a97d0b3f1775.png)
